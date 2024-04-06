@@ -1,4 +1,5 @@
 ## Hi there 👋
+🙋‍♀️ Cosmos-dao is a POC of the cosmos sdk module group
 
 <!--
 
