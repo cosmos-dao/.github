@@ -1,6 +1,7 @@
 ## What is Cosmos-dao?
 🙋‍♀️ Cosmos-dao is a POC of the cosmos sdk module group  
-👩‍💻 Useful resources 
+🧙 Dapp link - https://app.cosmos-dao.com/  
+👩‍💻 Useful resources - https://cosmos-dao.com/documentation/
 <!--
 
 **Here are some ideas to get you started:**
